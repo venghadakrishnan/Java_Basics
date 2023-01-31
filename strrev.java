@@ -12,9 +12,5 @@ public class strrev {
         rev = rev+str.charAt(i);
     
     System.out.print(rev);
-
-    
     }
-    
-    
 }
