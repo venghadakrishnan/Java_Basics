@@ -44,6 +44,4 @@ public class strtoary {
         String k = Arrays.stream(str).collect(Collectors.joining());
         return k;
     }
-    
-    
 }
