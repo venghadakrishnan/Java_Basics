@@ -17,8 +17,6 @@ class pali{
         else
         System.out.println("not a palindrome");
         System.out.println("not a palindrome");
-
-
         
     }
 }

@@ -15,8 +15,10 @@ public class anagram {
         Arrays.sort(second);
         
         // if(firststr.equals(second))
+        
         return Arrays.equals(firststr,second); 
     }
 }
+
     
 
